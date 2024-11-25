@@ -1,32 +1,32 @@
 ## DataCanvas
-#Team Name: Tech Titan
-#Project Title: AI-Powered Dynamic Infographic Generation for Data Storytelling
+# Team Name: Tech Titan
+# Project Title: AI-Powered Dynamic Infographic Generation for Data Storytelling
 
-#Overview
+# Overview
 DataCanvas is an interactive web application designed to transform raw datasets into meaningful visual stories. With its user-friendly interface, AI-powered analysis, and stunning visualizations, DataCanvas empowers users to uncover insights, communicate findings effectively, and make data-driven decisions.
 
-#Key Features
+# Key Features
 
 Seamless Data Upload:
 Supports TXT, CSV, Excel, and JSON file formats.
 Automatic data cleaning and summary generation.
 
-#AI-Powered Analysis:
+# AI-Powered Analysis:
 
 Provides key insights, trends, and recommendations using advanced AI models.
 Custom analysis powered by the Groq API.
 Stunning Visualizations:
 
-#Interactive charts: Line plots, bar plots, scatter plots, box plots, histograms, and heatmaps.
+# Interactive charts: Line plots, bar plots, scatter plots, box plots, histograms, and heatmaps.
 
 Customizable options for columns, color coding, and more.
 
-#Narrative Generation:
+# Narrative Generation:
 
 AI-crafted stories to present data insights effectively.
 Options for overviews, trend analysis, comparative analysis, and custom storytelling.
 
-#Dynamic Animations:
+# Dynamic Animations:
 
 Animated plots for trend analysis and engaging data presentations.
 Getting Started
@@ -34,18 +34,18 @@ Prerequisites
 Python 3.8+
 Streamlit
 
-#Required Python libraries:
+# Required Python libraries:
 
 pip install -r requirements.txt
 
-##Installation
+## Installation
 
-#Clone the repository:
+# Clone the repository:
 
 git clone (https://github.com/ssharma-03/DataCanvas.git
 cd datacanvas
 
-#Install dependencies:
+# Install dependencies:
 
 pip install -r requirements.txt
 
@@ -53,10 +53,10 @@ Set up environment variables:
 
 Create a .env file in the project root.
 
-#Add your Groq API key:
+# Add your Groq API key:
 GROQ_API_KEY=your_api_key_here
 
-#Run the application:
+# Run the application:
 streamlit run datacanvas.py
 
 How to Use
@@ -82,7 +82,7 @@ Animations:
 Create dynamic visualizations under the "🎬 Animation" tab.
 Generate trend animations with adjustable durations.
 
-#Future Enhancements
+# Future Enhancements
 
 Add support for more visualization types like bar chart races and 3D plots.
 Integrate natural language query processing for deeper insights.
