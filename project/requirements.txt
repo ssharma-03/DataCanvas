@@ -1,6 +1,0 @@
-streamlit
-pandas
-matplotlib
-transformers
-PyPDF2
-python-docx
